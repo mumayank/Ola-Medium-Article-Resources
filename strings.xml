@@ -1,0 +1,4 @@
+<resources>
+    <string name="accessibility_service_label_from_home">-----From Home</string>
+    <string name="accessibility_service_description">This service is brought to you by Ola Automatic - made by Mayank Mohan Upadhyay, mumayank at gmail dot com :)</string>
+</resources>
